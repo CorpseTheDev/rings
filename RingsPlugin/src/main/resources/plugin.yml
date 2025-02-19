@@ -1,0 +1,4 @@
+name: RingsPlugin
+version: '1.0-SNAPSHOT'
+main: org.crrupt.ringsPlugin.RingsPlugin
+api-version: '1.21'
